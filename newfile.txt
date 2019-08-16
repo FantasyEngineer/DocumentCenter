@@ -2,7 +2,7 @@
   "version":"1.1",
   "content":"1.修复bug
 2.首页增加类型筛选
-3.页面修改，将图标展示放入到首页。",
+3.页面修改，将图表展示放入到首页。",
   "url":"http://appback.csmc-cloud.com/index.php?user/public_link&fid=401deiC6-hbqKB1ag0zuRM8njYfYB54kS1G0vj1baLxAloD8PaOUdb-cJG5KijMHLW6u-vyAURVoGPznuuWaumv70uMI3u1RMWjUKN9Ts0Msz3I17qoesJE&file_name=/app-release.apk"
  
 }
