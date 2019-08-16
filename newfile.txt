@@ -1,6 +1,8 @@
 {
   "version":"1.1",
-  "content":"更新了统计的柱状图，更加容易的去查看一个月每一天的消费情况",
-  "url":"http://appback.csmc-cloud.com/index.php?user/public_link&fid=97bef85e7dd-sTVSevpbrkMb3WZ-hXDHVujA_cz7PauKX5NTtv32dLK8hIKXZnJoMmhfcmLI0dZjw4MYIovQn6UXnhZqfSR3elhucwgFJe31uiIZ7jY6dyg&file_name=/app-release.apk"
+  "content":"1.修复bug
+2.首页增加类型筛选
+3.页面修改，将图标展示放入到首页。",
+  "url":"http://appback.csmc-cloud.com/index.php?user/public_link&fid=401deiC6-hbqKB1ag0zuRM8njYfYB54kS1G0vj1baLxAloD8PaOUdb-cJG5KijMHLW6u-vyAURVoGPznuuWaumv70uMI3u1RMWjUKN9Ts0Msz3I17qoesJE&file_name=/app-release.apk"
  
 }
